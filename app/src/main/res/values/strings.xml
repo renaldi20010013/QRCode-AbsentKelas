@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Kelas Bersama</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+
+    <string name="load">Loading</string>
+    <string name="sps">Rungkad_Team</string>
+
+    <string name="login">Login</string>
+    <string name="nim">NIM</string>
+    <string name="pw">Password</string>
+
+    <string name="reg">Register</string>
+    <string name="email">Email</string>
+    <string name="nama">Nama</string>
+    <string name="prodi">Program Studi</string>
+
+    <string name="home">Welcome To Rungkad Class</string>
+    <string name="scn">Scan</string>
+    <string name="meet">Meeting</string>
+    <string name="jd">Jadwal</string>
+    <string name="ja">Jadwal Activity</string>
+    <string name="abs">Absensi</string>
+
+</resources>
